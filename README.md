@@ -276,5 +276,5 @@ Download `best.pt` from the **[Releases](../../releases/latest)** tab and place 
 ---
 
 <div align="center">
-<sub>Real-Time UAV Object Detection · SFD-YOLOv8 · VisDrone2019 · SIC AI Internship 2025</sub>
+<sub>Real-Time UAV Object Detection · SFD-YOLOv8 · VisDrone2019 · SIC AI Internship 2026</sub>
 </div>
